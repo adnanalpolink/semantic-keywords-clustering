@@ -42,4 +42,4 @@ Then upload a CSV file containing your keywords and select the appropriate colum
 
 ## Credits
 
-Based on the keyword clustering script by [Lee Foot](https://www.leefoot.com).
+Based on the keyword clustering script by [Lee Foot]([https://www.leefoot.com](https://www.linkedin.com/in/lee-foot/).
