@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+sentence-transformers>=2.2.0
+polyfuzz>=0.4.0
+plotly>=5.15.0
+chardet>=5.0.0
+rich>=13.0.0
+torch>=2.0.0
